@@ -1,0 +1,26 @@
+
+breakout.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+paddle
+  rotate: false
+  xy: 1, 35
+  size: 160, 16
+  orig: 160, 16
+  offset: 0, 0
+  index: -1
+brick
+  rotate: false
+  xy: 1, 1
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 131, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
